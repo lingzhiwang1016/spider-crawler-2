@@ -1,0 +1,16 @@
+{
+  "name": "day03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "book-spider.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crawler": "^1.0.4",
+    "express": "^4.15.2",
+    "mongoose": "^4.9.7"
+  }
+}
